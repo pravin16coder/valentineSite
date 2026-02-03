@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c831108-8d79-40df-98e3-8285959fc4da" name="Changes" comment="master: Moved the changes to main folder" />
+    <list default="true" id="5c831108-8d79-40df-98e3-8285959fc4da" name="Changes" comment="master: Rename the folder to main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,12 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1770114256782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="master: Rename the folder to main">
+      <option name="closed" value="true" />
+      <created>1770114705455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770114705455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master: Initial changes" />
     <MESSAGE value="master: Moved the changes to main folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="master: Moved the changes to main folder" />
+    <MESSAGE value="master: Rename the folder to main" />
+    <option name="LAST_COMMIT_MESSAGE" value="master: Rename the folder to main" />
   </component>
 </project>
